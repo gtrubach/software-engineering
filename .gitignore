@@ -4,3 +4,5 @@ Answer_1.docx
 September/*.docx
 October/*.docx
 reports/*
+*/.DS_Store
+.DS_Store
