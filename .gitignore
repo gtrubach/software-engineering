@@ -5,6 +5,12 @@ September/*.docx
 October/*.docx
 reports/*
 
+### MicrosoftOffice ###
+*.tmp
+
+# Word temporary
+~$*.doc*
+
 ### OSX ###
 .DS_Store
 .AppleDouble
