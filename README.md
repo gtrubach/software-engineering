@@ -1,3 +1,3 @@
-* Font of headings: Calibri (Light)
+# Introduction to Software Engineering
 
-* Font of text: Calibri (Body) with size=11
+This book has been made as part of special course in BSU in 2015.
